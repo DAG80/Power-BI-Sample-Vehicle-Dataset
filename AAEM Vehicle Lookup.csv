@@ -1,0 +1,176 @@
+VehicleID,VehModelID,Model,Manufacturer,VehDetails,Color,EngineCapacity,FuelType,ManufYear,Cost
+841,8,Vespa Notte 125,Piaggio,"Runs on petrol, mileage 35-45kmph,ideal for city commuting and easy handling",Red,125,Petrol,2023,85692.48
+842,8,Vespa Urban Club 125,Piaggio,"Runs on petrol, mileage 35-45kmph,ideal for city commuting and easy handling",Blue,125,Petrol,2022,86240.7
+843,8,Vespa SXL 125,Piaggio,"Runs on petrol, mileage 35-45kmph,ideal for city commuting and easy handling",Grey,125,Petrol,2024,108855.32
+844,8,Vespa VXL 125,Piaggio,"Runs on petrol, mileage 35-45kmph,ideal for city commuting and easy handling",Red,125,Petrol,2022,101937.84
+845,8,Vespa SXL 150,Piaggio,"Runs on petrol, mileage 35-45kmph,ideal for city commuting and easy handling",Grey,150,Petrol,2023,122050.88
+846,8,Vespa VXL 150,Piaggio,"Runs on petrol, mileage 35-45kmph,ideal for city commuting and easy handling",Black,150,Petrol,2022,116518
+847,8,Vespa Elegante 150,Piaggio,"Runs on petrol, mileage 35-45kmph,ideal for city commuting and easy handling",Red,150,Petrol,2022,124670
+848,9,TVS XL Comfort,TVS Motor Company,"Runs on petrol, mileage 35-45kmph,ideal for city commuting and easy handling",Blue,97.9,Petrol,2023,41504.88
+849,9,TVS XL Heavy Duty,TVS Motor Company,"Runs on petrol, mileage 35-45kmph,ideal for city commuting and easy handling",Black,99.9,Petrol,2024,40759.68
+850,9,TVS XLHeavy Duty i-Touchstart,TVS Motor Company,"Runs on petrol, mileage 35-45kmph,ideal for city commuting and easy handling",Black,99.9,Petrol,2024,45230.88
+851,9,TVS XL Comfort i-Touchstart,TVS Motor Company,"Runs on petrol, mileage 35-45kmph,ideal for city commuting and easy handling",Grey,99.9,Petrol,2024,45603.74
+852,10,KTM duke 125,KTM AG,"Runs on petrol, mileage 25 - 35 kmph,ideal for city commuting and easy handling",Red,125,Petrol,2024,153080
+853,10,KTM duke 200,KTM AG,"Runs on petrol, mileage 25 - 35 kmph,ideal for city commuting and easy handling",Blue,20,Petrol,2021,166500
+854,10,KTM duke 390,KTM AG,"Runs on petrol, mileage 25 - 35 kmph,ideal for city commuting and easy handling",Black,390,Petrol,2023,240300
+855,10,KTM RC 125,KTM AG,"Runs on petrol, mileage 25 - 35 kmph,ideal for city commuting and easy handling",Blue,125,Petrol,2024,158400
+856,10,KTM RC 200,KTM AG,"Runs on petrol, mileage 25 - 35 kmph,ideal for city commuting and easy handling",Black,200,Petrol,2022,178000
+857,10,KTM RC 300,KTM AG,"Runs on petrol, mileage 25 - 35 kmph,ideal for city commuting and easy handling",Grey,300,Petrol,2023,253650
+858,10,KTM  Adventure 250,KTM AG,"Runs on petrol, mileage 25 - 35 kmph,ideal for city commuting and easy handling",Blue,250,Petrol,2022,211500
+859,10,KTM  Adventure 390,KTM AG,"Runs on petrol, mileage 25 - 35 kmph,ideal for city commuting and easy handling",Blue,390,Petrol,2024,272800
+860,11,Royal Enfield bullet 350,Eicher Enfield,"Runs on petrol, mileage 25 - 35 kmph,ideal for city commuting and easy handling",Grey,350,Petrol,2023,138000
+861,11,Royal Enfield bullet 350 ES,Eicher Enfield,"Runs on petrol, mileage 25 - 35 kmph,ideal for city commuting and easy handling",Blue,350,Petrol,2021,140800
+862,11,Royal Enfield classic 350,Eicher Enfield,"Runs on petrol, mileage 25 - 35 kmph,ideal for city commuting and easy handling",Black,350,Petrol,2023,158400
+863,11,Royal Enfield classic 500,Eicher Enfield,"Runs on petrol, mileage 25 - 35 kmph,ideal for city commuting and easy handling",Black,500,Petrol,2022,180000
+864,11,Royal Enfield Meteor 350,Eicher Enfield,"Runs on petrol, mileage 25 - 35 kmph,ideal for city commuting and easy handling",Black,350,Petrol,2022,167200
+865,11,Royal Enfield  Himalayan,Eicher Enfield,"Runs on petrol, mileage 25 - 35 kmph,ideal for city commuting and easy handling",Grey,400,Petrol,2022,186900
+866,11,Royal Enfield Interceptor 650 ,Eicher Enfield,"Runs on petrol, mileage 25 - 35 kmph,ideal for city commuting and easy handling",Blue,650,Petrol,2024,249200
+867,11,Royal Enfield Continental GT 650,Eicher Enfield,"Runs on petrol, mileage 25 - 35 kmph,ideal for city commuting and easy handling",Blue,650,Petrol,2023,258100
+868,12,Yamaha fascino 110,"Yamaha Motor Co., Ltd","Runs on petrol, mileage 35-45kmph,ideal for city commuting and easy handling",Blue,110,Petrol,2023,51541.16
+869,12,yamaha fascino 125,"Yamaha Motor Co., Ltd","Runs on petrol, mileage 35-45kmph,ideal for city commuting and easy handling",Red,125,Petrol,2023,64400
+870,12,yamaha fascino 125 hybrid+,"Yamaha Motor Co., Ltd","Runs on petrol, mileage 35-45kmph,ideal for city commuting and easy handling",Grey,125,Petrol,2024,70407.6
+871,13,Bajaj CT 100,Bajaj Auto,"Runs on petrol, mileage 40-60kmph,ideal for city commuting and easy handling",Red,100,Petrol,2024,48075.3
+872,13,Bajaj CT 100 KS alloy,Bajaj Auto,"Runs on petrol, mileage 40-60kmph,ideal for city commuting and easy handling",Grey,100,Petrol,2024,49400.32
+873,13,Bajaj CT 100 ES alloy,Bajaj Auto,"Runs on petrol, mileage 40-60kmph,ideal for city commuting and easy handling",Blue,100,Petrol,2024,51280.32
+874,14,Pulsor 125 Neon,Bajaj Auto,"Runs on petrol, mileage 25 - 35 kmph,ideal for city commuting and easy handling",Red,125,Petrol,2023,71378.58
+875,14,pulsor 150,Bajaj Auto,"Runs on petrol, mileage 25 - 35 kmph,ideal for city commuting and easy handling",Blue,150,Petrol,2022,86595
+876,14,pulsor 150 twin disc,Bajaj Auto,"Runs on petrol, mileage 25 - 35 kmph,ideal for city commuting and easy handling",Grey,150,Petrol,2024,90928.2
+877,14,pulsor Ns160,Bajaj Auto,"Runs on petrol, mileage 25 - 35 kmph,ideal for city commuting and easy handling",Black,160,Petrol,2022,100100
+878,14,pulsor 180,Bajaj Auto,"Runs on petrol, mileage 25 - 35 kmph,ideal for city commuting and easy handling",Blue,180,Petrol,2023,98192.64
+879,14,pulsor 220F,Bajaj Auto,"Runs on petrol, mileage 25 - 35 kmph,ideal for city commuting and easy handling",Black,220,Petrol,2022,122118.96
+880,14,pulsor NS200,Bajaj Auto,"Runs on petrol, mileage 25 - 35 kmph,ideal for city commuting and easy handling",Grey,200,Petrol,2021,128382.32
+881,14,pulsor RS200,Bajaj Auto,"Runs on petrol, mileage 25 - 35 kmph,ideal for city commuting and easy handling",Black,200,Petrol,2022,146200.5
+882,15,ather 450plus,Ather Energy,"Runs on rechargeable( Li-ion,Lead Acid,LFP),cost effective,no emission,eco friendly range upto 50-80km(reusable)",Red,6kw,Electric,2023,102980.15
+883,15,ather 450X,Ather Energy,"Runs on rechargeable( Li-ion,Lead Acid,LFP),cost effective,no emission,eco friendly range upto 50-80km(reusable)",Black,5.4kw,Electric,2024,121831.92
+884,16,Pure EV pluto 7G,Pure EV,"Runs on rechargeable( Li-ion,Lead Acid,LFP),cost effective,no emission,eco friendly range upto 50-80km(reusable)",Black,1.8kw,Electric,2023,76439.09
+885,16,Pure EV ETrance Neo,Pure EV,"Runs on rechargeable( Li-ion,Lead Acid,LFP),cost effective,no emission,eco friendly range upto 50-80km(reusable)",Grey,250w,Electric,2022,71889.09
+886,17,Hero Optima CX,Hero Electric,"Runs on rechargeable( Li-ion,Lead Acid,LFP),cost effective,no emission,eco friendly range upto 50-80km(reusable)",Red,1.8kw,Electric,2024,57214.8
+887,17,hero Atria,Hero Electric,"Runs on rechargeable( Li-ion,Lead Acid,LFP),cost effective,no emission,eco friendly range upto 50-80km(reusable)",Blue,250w,Electric,2023,57912.4
+888,17,Hero Flash,Hero Electric,"Runs on rechargeable( Li-ion,Lead Acid,LFP),cost effective,no emission,eco friendly range upto 50-80km(reusable)",Black,250w,Electric,2024,54272.4
+889,17,Hero NYX,Hero Electric,"Runs on rechargeable( Li-ion,Lead Acid,LFP),cost effective,no emission,eco friendly range upto 50-80km(reusable)",Grey,250w,Electric,2022,62044.8
+890,17,Hero photon,Hero Electric,"Runs on rechargeable( Li-ion,Lead Acid,LFP),cost effective,no emission,eco friendly range upto 50-80km(reusable)",Grey,500w,Electric,2024,68190.4
+891,17,Hero Optima plus,Hero Electric,"Runs on rechargeable( Li-ion,Lead Acid,LFP),cost effective,no emission,eco friendly range upto 50-80km(reusable)",Grey,1.5kw,Electric,2023,52193.44
+892,18,TVS iCube Standard -S ,TVS Motor Company,"Runs on rechargeable( Li-ion,Lead Acid,LFP),cost effective,no emission,eco friendly range upto 50-80km(reusable)",Grey,4.4kw,Electric,2022,9170.07
+893,18,TVS iCube Standard -ST,TVS Motor Company,"Runs on rechargeable( Li-ion,Lead Acid,LFP),cost effective,no emission,eco friendly range upto 50-80km(reusable)",Grey,4.4kw,Electric,2024,10190.84
+894,19,Ola S1 Pro - Standard,Ola Electric,"Runs on rechargeable( Li-ion,Lead Acid,LFP),cost effective,no emission,eco friendly range upto 50-80km(reusable)",Black,8.5kw,Electric,2023,113750
+895,19,Ola S1 Air,Ola Electric,"Runs on rechargeable( Li-ion,Lead Acid,LFP),cost effective,no emission,eco friendly range upto 50-80km(reusable)",Blue,4.5kw,Electric,2022,115812.36
+896,19,Ola S1X Plus,Ola Electric,"Runs on rechargeable( Li-ion,Lead Acid,LFP),cost effective,no emission,eco friendly range upto 50-80km(reusable)",Grey,4.5kw,Electric,2022,101920
+897,19,Ola S1X,Ola Electric,"Runs on rechargeable( Li-ion,Lead Acid,LFP),cost effective,no emission,eco friendly range upto 50-80km(reusable)",Black,3.5kw,Electric,2023,75439.08
+898,19,Ola S1X(2kwh),Ola Electric,"Runs on rechargeable( Li-ion,Lead Acid,LFP),cost effective,no emission,eco friendly range upto 50-80km(reusable)",Black,2kw,Electric,2023,63699.09
+899,19,Ola S1 Pro ,Ola Electric,"Runs on rechargeable( Li-ion,Lead Acid,LFP),cost effective,no emission,eco friendly range upto 50-80km(reusable)",Blue,8.5kw,Electric,2022,139499.1
+900,20,Bajaj Chetak - Urbane,Bajaj Auto,"Runs on rechargeable( Li-ion,Lead Acid,LFP),cost effective,no emission,eco friendly range upto 50-80km(reusable)",Black,145.5,Electric,2022,104650
+901,20,Bajaj Chetak -  Premium,Bajaj Auto,"Runs on rechargeable( Li-ion,Lead Acid,LFP),cost effective,no emission,eco friendly range upto 50-80km(reusable)",Black,145.5,Electric,2023,108290
+902,21,Bajaj Avenger - Street 160 ,Bajaj Auto,"Austrian brand,Duke series (125, 200, 250, 390),Offers lightweight chassis,aggressive styling,Mileage: 25-35 kmpl",Grey,160,Petrol,2023,105964.68
+903,31,Bajaj Avenger - Cruise 220,Bajaj Auto,"Austrian brand,Duke series (125, 200, 250, 390),Offers lightweight chassis,aggressive styling,Mileage: 25-35 kmpl",Red,220,Petrol,2022,113750
+904,22,Hero Passion Plus - Standard,Hero MotoCorp,"Runs on petrol, mileage 40-60kmph,ideal for city commuting and easy handling",Black,97.9,Petrol,2023,73122.52
+905,1,Hero Passion Pro - Standard,Hero MotoCorp,"Runs on petrol, mileage 40-60kmph,ideal for city commuting and easy handling",Black,113,Petrol,2022,77350
+906,1,Hero Passion Pro -Disc Brake,Hero MotoCorp,"Runs on petrol, mileage 40-60kmph,ideal for city commuting and easy handling",Grey,113.5,Petrol,2023,80990
+907,22,Hero Passion Plus  Disc Brake,Hero MotoCorp,"Runs on petrol, mileage 40-60kmph,ideal for city commuting and easy handling",Black,97.9,Petrol,2023,83729.1
+908,22,Hero Passion Plus - Drum Brake,Hero MotoCorp,"Runs on petrol, mileage 40-60kmph,ideal for city commuting and easy handling",Grey,97.9,Petrol,2021,72174
+909,1,Hero Passion Pro - Drum Brake,Hero MotoCorp,"Runs on petrol, mileage 40-60kmph,ideal for city commuting and easy handling",Black,113.5,Petrol,2023,75029.5
+910,14,pulsor 180 -Standard,Bajaj Auto,"Runs on petrol, mileage 40-60kmph,ideal for city commuting and easy handling",Grey,180,Petrol,2024,100100
+911,6,TVS Jupiter - Standard,TVS Motor Company,"Runs on petrol, mileage 35-45kmph,ideal for city commuting and easy handling",Red,115,Petrol,2022,69000
+912,6,TVS Jupiter - ZX,TVS Motor Company,"Runs on petrol, mileage 35-45kmph,ideal for city commuting and easy handling",Red,115,Petrol,2022,76895
+913,6,TVS Jupiter - Classic,TVS Motor Company,"Runs on petrol, mileage 35-45kmph,ideal for city commuting and easy handling",Black,115,Petrol,2022,80990
+914,6,TVS Jupiter - Grande,TVS Motor Company,"Runs on petrol, mileage 35-45kmph,ideal for city commuting and easy handling",Black,125,Petrol,2022,87400
+915,24,Hero Maestro Edge 110 ,Hero MotoCorp,"Runs on petrol, mileage 35-45kmph,ideal for city commuting and easy handling",Red,110,Petrol,2024,67340
+916,24,Hero Maestro Edge 125,Hero MotoCorp,"Runs on petrol, mileage 35-45kmph,ideal for city commuting and easy handling",Black,125,Petrol,2022,65706.4
+917,25,Hero Xtreme 160R,Hero MotoCorp,"Runs on petrol, mileage 25 - 35 kmph,ideal for city commuting and easy handling",Grey,160,Petrol,2023,101200
+918,25,Hero Xtreme 200S,Hero MotoCorp,"Runs on petrol, mileage 25 - 35 kmph,ideal for city commuting and easy handling",Red,200,Petrol,2022,124632.4
+919,26,Honda CB Unicorn 150 - Standard,Honda,"Runs on petrol, mileage 25 - 35 kmph,ideal for city commuting and easy handling",Red,150,Petrol,2024,92000
+920,7,Suzuki Access 125 -Drum Brake,Suzuki Motorcycle India Pvt. Ltd.,"Runs on petrol, mileage 35-45kmph,ideal for city commuting and easy handling",Red,125,Petrol,2023,76440
+921,7,Suzuki Access 125 -Disc Brake,Suzuki Motorcycle India Pvt. Ltd.,"Runs on petrol, mileage 35-45kmph,ideal for city commuting and easy handling",Black,125,Petrol,2023,68686.8
+922,7,Suzuki Access 125 -Special Edition,Suzuki Motorcycle India Pvt. Ltd.,"Runs on petrol, mileage 35-45kmph,ideal for city commuting and easy handling",Black,125,Petrol,2022,79661.4
+923,7,Suzuki Access 125 -Bluetooth Enabled Edition,Suzuki Motorcycle India Pvt. Ltd.,"Runs on petrol, mileage 35-45kmph,ideal for city commuting and easy handling",Black,125,Petrol,2022,86268
+924,2,Hero Splendor Plus -Kick Start with Alloy Wheels,Suzuki Motorcycle India Pvt. Ltd.,"Runs on petrol, mileage 40-60kmph,ideal for city commuting and easy handling",Grey,97.9,Petrol,2024,67340
+925,2,Hero Splendor Plus -Self Start with Alloy Wheels,Suzuki Motorcycle India Pvt. Ltd.,"Runs on petrol, mileage 40-60kmph,ideal for city commuting and easy handling",Red,97.9,Petrol,2024,66240
+926,2,Hero Splendor Plus - Alloy Wheels & i3S,Hero MotoCorp,"Runs on petrol, mileage 40-60kmph,ideal for city commuting and easy handling",Grey,99.9,Petrol,2024,65366
+927,2,Hero Splendor Plus -Black and Accent Edition,Hero MotoCorp,"Runs on petrol, mileage 40-60kmph,ideal for city commuting and easy handling",Grey,99.9,Petrol,2024,64814
+928,2,Spl Pro - Kick Start with Alloy Wheels,Hero MotoCorp,"Runs on petrol, mileage 40-60kmph,ideal for city commuting and easy handling",Red,113.5,Petrol,2022,58695
+929,2,Spl pro - Self  Start with Alloy Wheels,Hero MotoCorp,"Runs on petrol, mileage 40-60kmph,ideal for city commuting and easy handling",Black,113.5,Petrol,2022,62019.04
+930,3,Yamaha R15,"Yamaha Motor Co., Ltd","Runs on petrol, mileage 40-60kmph,ideal for city commuting and easy handling",Blue,149,Petrol,2024,165006
+931,3,Yamaha R15 -v4 ,"Yamaha Motor Co., Ltd","Runs on petrol, mileage 40-60kmph,ideal for city commuting and easy handling",Black,155,Petrol,2023,172800
+932,3,Yamaha R15 Metallic Red,"Yamaha Motor Co., Ltd","Runs on petrol, mileage 40-60kmph,ideal for city commuting and easy handling",Black,149,Petrol,2024,166113
+933,3,Yamaha R15 Dark Knight,"Yamaha Motor Co., Ltd","Runs on petrol, mileage 40-60kmph,ideal for city commuting and easy handling",Blue,149,Petrol,2024,173550
+934,3,Yamaha R15 Racing Blue,"Yamaha Motor Co., Ltd","Runs on petrol, mileage 40-60kmph,ideal for city commuting and easy handling",Red,149,Petrol,2022,171770
+935,3,Yamaha R15M,"Yamaha Motor Co., Ltd","Runs on petrol, mileage 40-60kmph,ideal for city commuting and easy handling",Blue,155,Petrol,2022,178056
+936,3,Yamaha R15 MotoGP Edition,"Yamaha Motor Co., Ltd","Runs on petrol, mileage 40-60kmph,ideal for city commuting and easy handling",Red,155,Petrol,2023,171182.6
+937,4,Honda Activa 4G,Honda,"Runs on petrol, mileage 35-45kmph,ideal for city commuting and easy handling",Grey,109,Petrol,2024,50050
+938,4,Honda Activa 5G,Honda,"Runs on petrol, mileage 35-45kmph,ideal for city commuting and easy handling",Red,119,Petrol,2024,58240
+939,4,Honda Activa 6G,Honda,"Runs on petrol, mileage 35-45kmph,ideal for city commuting and easy handling",Black,119,Petrol,2024,73600
+940,5,Hero Pleasure Standard,Honda,"Runs on petrol, mileage 35-45kmph,ideal for city commuting and easy handling",Red,113.5,Petrol,2022,59150
+941,5,Hero Pleasure Plus,Honda,"Runs on petrol, mileage 35-45kmph,ideal for city commuting and easy handling",Blue,113.5,Petrol,2022,62560
+942,5,Hero Pleasure Platinum Edition,Honda,"Runs on petrol, mileage 35-45kmph,ideal for city commuting and easy handling",Red,113.5,Petrol,2023,66240
+943,32,Ampere Magnus,Ampere Vehicles,"Runs on rechargeable( Li-ion,Lead Acid,LFP),cost effective,no emission,eco friendly range upto 50-80km(reusable)",Grey,1.2kw,Electric,2022,65320
+944,32,Ampere EX,Ampere Vehicles,"Runs on rechargeable( Li-ion,Lead Acid,LFP),cost effective,no emission,eco friendly range upto 50-80km(reusable)",Grey,1.2kw,Electric,2023,50050
+945,32,Ampere Nexus,Ampere Vehicles,"Runs on rechargeable( Li-ion,Lead Acid,LFP),cost effective,no emission,eco friendly range upto 50-80km(reusable)",Grey,1.2kw,Electric,2024,49680
+946,32,Ampere ST,Ampere Vehicles,"Runs on rechargeable( Li-ion,Lead Acid,LFP),cost effective,no emission,eco friendly range upto 50-80km(reusable)",Grey,250w,Electric,2022,72800
+947,15,Ather 450 Plus,Ather Energy,"Runs on rechargeable( Li-ion,Lead Acid,LFP),cost effective,no emission,eco friendly range upto 50-80km(reusable)",Black,6kw,Electric,2024,102830
+948,15,Ather 450 X,Ather Energy,"Runs on rechargeable( Li-ion,Lead Acid,LFP),cost effective,no emission,eco friendly range upto 50-80km(reusable)",Black,6kw,Electric,2024,135240
+949,15,Ather 450 Apex,Ather Energy,"Runs on rechargeable( Li-ion,Lead Acid,LFP),cost effective,no emission,eco friendly range upto 50-80km(reusable)",Blue,6kw,Electric,2024,165600
+950,7,Suzuki Access 125 Standard Edition,Suzuki Motorcycle India Pvt. Ltd.,"Runs on petrol, mileage 35-45kmph,ideal for city commuting and easy handling",Grey,125,Petrol,2023,70840
+951,7,Suzuki Access 125 Special Edition,Suzuki Motorcycle India Pvt. Ltd.,"Runs on petrol, mileage 35-45kmph,ideal for city commuting and easy handling",Grey,125,Petrol,2024,72680
+952,7,Suzuki Access 125 Ride Connect Edition,Suzuki Motorcycle India Pvt. Ltd.,"Runs on petrol, mileage 35-45kmph,ideal for city commuting and easy handling",Black,125,Petrol,2021,74620
+953,24,Hero Maestro Edge 125 Drum Brake Variant,Hero MotoCorp,"Runs on petrol, mileage 35-45kmph,ideal for city commuting and easy handling",Red,125,Petrol,2023,70840
+954,24,Hero Maestro Edge 125 Disc Brake Variant,Hero MotoCorp,"Runs on petrol, mileage 35-45kmph,ideal for city commuting and easy handling",Blue,125,Petrol,2023,71890
+955,24,Hero Maestro Edge 125 Connected Variant,Hero MotoCorp,"Runs on petrol, mileage 35-45kmph,ideal for city commuting and easy handling",Grey,125,Petrol,2024,75530
+956,25,Hero Xtreme 160R,Hero MotoCorp,"Runs on petrol, mileage 35-45kmph,ideal for city commuting and easy handling",Red,160,Petrol,2022,108290
+957,25,Hero Xtreme 200S,Hero MotoCorp,"Runs on petrol, mileage 35-45kmph,ideal for city commuting and easy handling",Red,200,Petrol,2024,116840
+958,28,splendor iSmart Drum Brake Variant,Hero MotoCorp,"Runs on petrol, mileage 40-60kmph,ideal for city commuting and easy handling",Red,113.5,Petrol,2022,64400
+959,28,splendor iSmart Disc Brake Variant,Hero MotoCorp,"Runs on petrol, mileage 40-60kmph,ideal for city commuting and easy handling",Grey,113.5,Petrol,2024,67340
+960,29,Apache RTR 160,TVS Motor Company,"Runs on petrol, mileage 40-60kmph,ideal for city commuting and easy handling",Grey,160,Petrol,2024,101920
+961,29,Apache RTR 180,TVS Motor Company,"Runs on petrol, mileage 40-60kmph,ideal for city commuting and easy handling",Black,180,Petrol,2024,107380
+962,29,Apache RTR 160 4V,TVS Motor Company,"Runs on petrol, mileage 40-60kmph,ideal for city commuting and easy handling",Black,160,Petrol,2022,118300
+963,29,Apache RTR 200 4V,TVS Motor Company,"Runs on petrol, mileage 40-60kmph,ideal for city commuting and easy handling",Yellow,200,Petrol,2024,140800
+964,29,Apache RR 310 ,TVS Motor Company,"Runs on petrol, mileage 40-60kmph,ideal for city commuting and easy handling",Grey,310,Petrol,2024,204700
+965,30,Suzuki gixxer Standard Edition,Suzuki,"Runs on petrol, mileage 40-60kmph,ideal for city commuting and easy handling",Red,150,Petrol,2022,107640
+966,30,Suzuki gixxer Special Edition,Suzuki,"Runs on petrol, mileage 40-60kmph,ideal for city commuting and easy handling",Blue,150,Petrol,2024,115570
+967,33,Destini VX,Hero MotoCorp,"Runs on petrol, mileage 35-45kmph,ideal for city commuting and easy handling",Black,99.9,Petrol,2024,69160
+968,33,Destini ZX+,Hero MotoCorp,"Runs on petrol, mileage 35-45kmph,ideal for city commuting and easy handling",Grey,113.5,Petrol,2022,72800
+969,33,Destini ZX,Hero MotoCorp,"Runs on petrol, mileage 35-45kmph,ideal for city commuting and easy handling",Grey,113.5,Petrol,2021,71760
+970,36,Hero xoom LX,Hero MotoCorp,"Runs on petrol, mileage 35-45kmph,ideal for city commuting and easy handling",Red,99.9,Petrol,2024,66240
+971,36,Hero xoom VX,Hero MotoCorp,"Runs on petrol, mileage 35-45kmph,ideal for city commuting and easy handling",Grey,99.9,Petrol,2022,69920
+972,36,Hero xoom ZX,Hero MotoCorp,"Runs on petrol, mileage 35-45kmph,ideal for city commuting and easy handling",Black,99.9,Petrol,2022,71890
+973,37,Glamour Disc Brake Variant,Hero MotoCorp,"Runs on petrol, mileage 40-60kmph,ideal for city commuting and easy handling",Grey,115,Petrol,2023,74620
+974,37,Glamour Drum Brake Variant,Hero MotoCorp,"Runs on petrol, mileage 40-60kmph,ideal for city commuting and easy handling",Blue,115,Petrol,2024,70980
+975,38,HF Deluxe,Hero MotoCorp,"Runs on petrol, mileage 40-60kmph,ideal for city commuting and easy handling",Grey,97.9,Petrol,2023,45500
+976,38,HF 100,Hero MotoCorp,"Runs on petrol, mileage 40-60kmph,ideal for city commuting and easy handling",Blue,99.9,Petrol,2022,31850
+977,34,Yakuza Ericka Lead Acid,Yakuza,"Runs on rechargeable( Lead acid),cost effective,no emission,eco friendly range upto 50-80km(reusable)",Black,250w,Electric,2024,67620
+978,34,Yakua Phantom Lead Acid,Yakuza,"Runs on rechargeable( Lead acid),cost effective,no emission,eco friendly range upto 50-80km(reusable)",Grey,250w,Electric,2022,64173.2
+979,34,Yakua Ruby Lead Acid,Yakuza,"Runs on rechargeable( Lead acid),cost effective,no emission,eco friendly range upto 50-80km(reusable)",Blue,250w,Electric,2024,58880
+980,34,Yakua poppy Lead Acid,Yakuza,"Runs on rechargeable( Lead acid),cost effective,no emission,eco friendly range upto 50-80km(reusable)",Red,250w,Electric,2022,65065
+981,34,Yakua Delta Lead Acid,Yakuza,"Runs on rechargeable( Lead acid),cost effective,no emission,eco friendly range upto 50-80km(reusable)",Grey,250w,Electric,2023,63240.8
+982,34,Yakua viraj Lead Acid,Yakuza,"Runs on rechargeable( Lead acid),cost effective,no emission,eco friendly range upto 50-80km(reusable)",Red,250w,Electric,2022,58732.8
+983,34,Yakua lundafei Lead Acid,Yakuza,"Runs on rechargeable( Lead acid),cost effective,no emission,eco friendly range upto 50-80km(reusable)",Blue,250w,Electric,2022,63217.7
+984,34,Yakua Neu Lead Acid,Yakuza,"Runs on rechargeable( Lead acid),cost effective,no emission,eco friendly range upto 50-80km(reusable)",Black,250w,Electric,2023,63199.5
+985,34,Yakua 1000 Lead Acid,Yakuza,"Runs on rechargeable( Lead acid),cost effective,no emission,eco friendly range upto 50-80km(reusable)",Red,250w,Electric,2022,79561.3
+986,9,TVS XL i-Touch Start,TVS Motor Company,"Runs on petrol, mileage 35-45kmph,ideal for city commuting and easy handling",Grey,99.9,Electric,2024,77350
+987,9,TVS XL Win Edition,TVS Motor Company,"Runs on petrol, mileage 35-45kmph,ideal for city commuting and easy handling",Black,99.7,Electric,2023,69160
+988,39,Kinetic Green E-Luna Standard,Kinetic Green,"Runs on rechargeable( Li-ion,Lead Acid,LFP),cost effective,no emission,eco friendly range upto 50-80km(reusable)",Black,250w,Electric,2024,41400
+989,39,Kinetic Green E-Luna special Edition,Kinetic Green,"Runs on rechargeable( Li-ion,Lead Acid,LFP),cost effective,no emission,eco friendly range upto 50-80km(reusable)",Grey,250w,Electric,2024,67390
+990,23,Motovolt Urbn e-Bike Standard,Motovolt,"Runs on rechargeable( Li-ion,Lead Acid,LFP),cost effective,no emission,eco friendly range upto 50-80km(reusable)",Red,3.8kw,Electric,2023,78796.9
+991,23,Motovolt Urbn e-Bike Extended Range,Motovolt,"Runs on rechargeable( Li-ion,Lead Acid,LFP),cost effective,no emission,eco friendly range upto 50-80km(reusable)",Grey,3.8kw,Electric,2024,82790.8
+992,34,Yakuza Ericka Li - ion,Yakuza,"Runs on rechargeable( Li - ion),cost effective,no emission,eco friendly range upto 50-80km(reusable)",Blue,250w,Electric,2022,69000
+993,34,Yakua Phantom Li - ion,Yakuza,"Runs on rechargeable( Li - ion),cost effective,no emission,eco friendly range upto 50-80km(reusable)",Blue,250w,Electric,2022,64610
+994,34,Yakua Ruby Li - ion,Yakuza,"Runs on rechargeable( Li - ion),cost effective,no emission,eco friendly range upto 50-80km(reusable)",Black,250w,Electric,2023,62790
+995,34,Yakua poppy Li - ion,Yakuza,"Runs on rechargeable( Li - ion),cost effective,no emission,eco friendly range upto 50-80km(reusable)",Red,250w,Electric,2024,66430
+996,34,Yakua Delta Li - ion,Yakuza,"Runs on rechargeable( Li - ion),cost effective,no emission,eco friendly range upto 50-80km(reusable)",Grey,250w,Electric,2022,77350
+997,34,Yakua viraj Li - ion,Yakuza,"Runs on rechargeable( Li - ion),cost effective,no emission,eco friendly range upto 50-80km(reusable)",Blue,250w,Electric,2024,76649.3
+998,34,Yakua lundafei Li - ion,Yakuza,"Runs on rechargeable( Li - ion),cost effective,no emission,eco friendly range upto 50-80km(reusable)",Black,250w,Electric,2024,63912.4
+999,34,Yakua Neu Li - ion,Yakuza,"Runs on rechargeable( Li - ion),cost effective,no emission,eco friendly range upto 50-80km(reusable)",Blue,250w,Electric,2024,86480
+1000,34,Yakua 1000 Li - ion,Yakuza,"Runs on rechargeable( Li - ion),cost effective,no emission,eco friendly range upto 50-80km(reusable)",Black,250w,Electric,2024,80435.6
+1001,34,Yakuza Ericka Lfp,Yakuza,"Runs on rechargeable( Lfp),cost effective,no emission,eco friendly range upto 50-80km(reusable)",Red,250w,Electric,2023,85540
+1002,34,Yakua Phantom Lfp,Yakuza,"Runs on rechargeable( Lfp),cost effective,no emission,eco friendly range upto 50-80km(reusable)",Black,250w,Electric,2023,83720
+1003,34,Yakua Ruby Lfp,Yakuza,"Runs on rechargeable( Lfp),cost effective,no emission,eco friendly range upto 50-80km(reusable)",Black,250w,Electric,2024,85560
+1004,34,Yakua poppy Lfp,Yakuza,"Runs on rechargeable( Lfp),cost effective,no emission,eco friendly range upto 50-80km(reusable)",Red,250w,Electric,2024,87360
+1005,34,Yakua Delta Lfp,Yakuza,"Runs on rechargeable( Lfp),cost effective,no emission,eco friendly range upto 50-80km(reusable)",Grey,250w,Electric,2023,92000
+1006,34,Yakua viraj Lfp,Yakuza,"Runs on rechargeable( Lfp),cost effective,no emission,eco friendly range upto 50-80km(reusable)",Red,250w,Electric,2022,89764.4
+1007,34,Yakua lundafei Lfp,Yakuza,"Runs on rechargeable( Lfp),cost effective,no emission,eco friendly range upto 50-80km(reusable)",Black,250w,Electric,2022,88752.4
+1008,34,Yakua Neu Lfp,Yakuza,"Runs on rechargeable( Lfp),cost effective,no emission,eco friendly range upto 50-80km(reusable)",Red,250w,Electric,2024,90563.2
+1009,34,Yakua 1000 Lfp,Yakuza,"Runs on rechargeable( Lfp),cost effective,no emission,eco friendly range upto 50-80km(reusable)",Red,250w,Electric,2024,90850
+1010,27,XGT CAT 2.0,Komaki,"Runs on rechargeable( Li-ion,Lead Acid,LFP),cost effective,no emission,eco friendly range upto 50-80km(reusable)",Grey,250w,Electric,2022,90804
+1011,27,XGT CAT 2.0 Standard,Komaki,"Runs on rechargeable( Li-ion,Lead Acid,LFP),cost effective,no emission,eco friendly range upto 50-80km(reusable)",Grey,250w,Electric,2022,77970
+1012,27,XGT CAT 2.0 Advanced,Komaki,"Runs on rechargeable( Li-ion,Lead Acid,LFP),cost effective,no emission,eco friendly range upto 50-80km(reusable)",Red,250w,Electric,2022,90990.9
+1013,23,pulsor 180,Bajaj Motors,"Runs on petrol, mileage 40-60kmph,ideal for city commuting and easy handling",Black,180,Petrol,2021,101920
+1014,35,hero xpulse basic variant ,Hero Electric,"Runs on petrol, mileage 40-60kmph,ideal for city commuting and easy handling",Blue,110,Petrol,2023,103040
+1015,35,hero xpulse Advance variant ,Hero Electric,"Runs on petrol, mileage 40-60kmph,ideal for city commuting and easy handling",Black,110,Petrol,2022,122850
